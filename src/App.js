@@ -12,7 +12,7 @@ const TWITTER_HANDLE = "nc163";
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
 // 登録したいドメインです。好みで変えてみましょう。
 const tld = ".ninja";
-const CONTRACT_ADDRESS = "0xA354860868A04430b72df1B54FAbb404Eb2b7A4F";
+const CONTRACT_ADDRESS = "0xf4AcBB3369eb108BC38a717fa82a9A8eae27616f";
 
 const App = () => {
   const [currentAccount, setCurrentAccount] = useState("");
